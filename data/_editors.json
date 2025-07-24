@@ -15,18 +15,23 @@
         "link": "https://www.youtube.com/@-Gd_Void-"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Moderator",
+        "name": "Soupy",
+        "link": "https://www.youtube.com/@TheSoupiest"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Helper",
+        "name": "Dot",
+        "link": "https://steamcommunity.com/profiles/76561199640450768"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mako",
+        "link": "https://www.youtube.com/@MakoGD5"
+    },
+    {
+        "role": "dev",
+        "name": "Avernus",
+        "link": "https://www.youtube.com/@AvernusYT"
     }
 ]

@@ -1,13 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Avernus",
+        "link": "https://www.youtube.com/@AvernusYT"
+    },
+    {
+        "role": "owner",
+        "name": "Mako",
+        "link": "https://www.youtube.com/@MakoGD5"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Void",
+        "link": "https://www.youtube.com/@-Gd_Void-"
     },
     {
         "role": "helper",
